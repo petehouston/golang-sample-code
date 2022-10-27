@@ -1,0 +1,1 @@
+this file content should be embedded in go program

@@ -1,0 +1,7 @@
+Apple
+Google
+Meta
+Netflix
+Amazon
+Uber
+AirBnb
